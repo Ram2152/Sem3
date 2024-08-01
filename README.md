@@ -15,6 +15,6 @@ _Professor: Sunita Sarawagi_
   - _Introduction to Probability and Statistics for Engineers and Scientists by Sheldon M. Ross._ __[Main textbook]__
   - _Probability, Random Variables and Stochastic processes by Papoulis and Pillai, 4th Edition, Tata McGraw Hill._
   - _An Introduction to Probability Theory and Its Applications, Vol. 1, William Feller, 3rd edition, Wiley International_  
-- You can find the 1st Reference Material [Here](./CS215/Resources)
+- You can find the 1st and 2nd Reference Material [Here](./CS215/Resources)
 ## CS228 ( Logic for Computer Science )
 ## CS230 ( Digital Logic Design and Computer Architecture )

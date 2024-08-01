@@ -16,5 +16,11 @@ _Professor: Sunita Sarawagi_
   - _Probability, Random Variables and Stochastic processes by Papoulis and Pillai, 4th Edition, Tata McGraw Hill._
   - _An Introduction to Probability Theory and Its Applications, Vol. 1, William Feller, 3rd edition, Wiley International_  
 - You can find the 1st and 2nd Reference Material [Here](./CS215/Resources)
+- The course webpage can be found [Here](./CS215/CS215_Webpage.pdf)
 ## CS228 ( Logic for Computer Science )
+_Professor: Krishna_
+- All Lecture slides, tutorial sheets and announcements were posted on Piazza. One tutorial every week.
+- The main Reference Book: _Huth and Ryan_.
+- The reference material along with slides and tutorials can be found under the Resources tab in Piazza.
+- The following links will lead you to the [Slides](./CS228/Lectures) and [Resources](./CS228/Resources).
 ## CS230 ( Digital Logic Design and Computer Architecture )

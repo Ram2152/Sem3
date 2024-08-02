@@ -6,6 +6,7 @@ The Time table has been uploaded in the Github Repo. Follow the [Link](./Time_Ta
 __Note:__ CS405 wasn't my core course. It was an Additional Learning Course I took in my Semester 3.
 ## CS213 ( Data Structures and Algorithms )
 _Professor: Ashutosh Gupta_  
+_Venue: LA001_  
 - All the slides were uploaded [Here](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/). You can also find them in the current github repo. Follow the [Link](./CS213/Lectures) to access the slides.  
 - All class-related discussions took place in Piazza.  
 - The Reference material used by the prof in the course is _Introduction to Algorithms, third edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein_. The fourth edition of the same book is uploaded in the github repo. You can find it [Here](./CS213/Resources).  
@@ -13,6 +14,7 @@ _Professor: Ashutosh Gupta_
 Also we have daily quizzes :smiling_face_with_tear: 
 ## CS215 ( Data Analysis and Interpretation )
 _Professor: Sunita Sarawagi_
+_Venue: LA001_  
 - All announcements regarding quizzes, exams were posted through moodle.
 - All the slides were uploaded in moodle. You can find them in the current github repo. Follow the [Link](./CS215/Lectures) to access the slides.
 - The Reference Materials used by the prof in the course are
@@ -23,6 +25,7 @@ _Professor: Sunita Sarawagi_
 - The course webpage can be found [Here](./CS215/CS215_Webpage.pdf)
 ## CS228 ( Logic for Computer Science )
 _Professor: Krishna_
+_Venue: LA002_
 - All Lecture slides, tutorial sheets and announcements were posted on Piazza. One tutorial every week.
 - The main Reference Book: _Huth and Ryan_.
 - The reference material along with slides and tutorials can be found under the Resources tab in Piazza.

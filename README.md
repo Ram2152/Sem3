@@ -13,7 +13,7 @@ _Venue: LA001_
   
 Also we have daily quizzes :smiling_face_with_tear: 
 ## CS215 ( Data Analysis and Interpretation )
-_Professor: Sunita Sarawagi_
+_Professor: Sunita Sarawagi_  
 _Venue: LA001_  
 - All announcements regarding quizzes, exams were posted through moodle.
 - All the slides were uploaded in moodle. You can find them in the current github repo. Follow the [Link](./CS215/Lectures) to access the slides.
@@ -24,7 +24,7 @@ _Venue: LA001_
 - You can find the 1st and 2nd Reference Material [Here](./CS215/Resources)
 - The course webpage can be found [Here](./CS215/CS215_Webpage.pdf)
 ## CS228 ( Logic for Computer Science )
-_Professor: Krishna_
+_Professor: Krishna_  
 _Venue: LA002_
 - All Lecture slides, tutorial sheets and announcements were posted on Piazza. One tutorial every week.
 - The main Reference Book: _Huth and Ryan_.

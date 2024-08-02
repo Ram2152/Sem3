@@ -35,6 +35,7 @@ _Professor: Sayandeep Saha and Bhaskaran Raman_
 _Venue: LH102_  
 - The first 3 weeks were taken by Prof. Sayandeep. All The materials were uploaded on [Bodhitree](https://robin.bodhi.cse.iitb.ac.in) and on Sir's [Webpage](https://sites.google.com/view/sayandeepsaha/digital-logic-and-computer-architecture-theory-lab).  
 - You can also find the slides in this repo. Follow the [Link](./CS230/Lectures) to access them.
+- I have also added a Digital Design and Computer Architecture book by Harris and Sarah which I had referred to during eYantra competition. You can find it [Here](./CS230/Resources)
 ## CS405 ( Game Theory and Algorithmic Mechanism Design )
 _Professor: Swaprava Nath_  
 _Venue: LA002_  

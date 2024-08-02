@@ -1,12 +1,16 @@
-# Sem3
-This Repository contains all the resources I have used during my Semester 3 (Autumn Semester of the Academic Year 2024-25).
+# Welcome to Semester 3! 😊
+This Repository contains all the resources I am using during my Semester 3 (Autumn Semester of the Academic Year 2024-25).
+  
+## Time Table
+The Time table has been uploaded in the Github Repo. Follow the [Link](./Time_Table.png) to view my Time Table.  
+__Note:__ CS405 wasn't my core course. It was an Additional Learning Course I took in my Semester 3.
 ## CS213 ( Data Structures and Algorithms )
 _Professor: Ashutosh Gupta_  
 - All the slides were uploaded [Here](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/). You can also find them in the current github repo. Follow the [Link](./CS213/Lectures) to access the slides.  
 - All class-related discussions took place in Piazza.  
 - The Reference material used by the prof in the course is _Introduction to Algorithms, third edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein_. The fourth edition of the same book is uploaded in the github repo. You can find it [Here](./CS213/Resources).  
   
-Also we had daily quizzes :smiling_face_with_tear: 
+Also we have daily quizzes :smiling_face_with_tear: 
 ## CS215 ( Data Analysis and Interpretation )
 _Professor: Sunita Sarawagi_
 - All announcements regarding quizzes, exams were posted through moodle.

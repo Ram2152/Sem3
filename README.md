@@ -31,3 +31,7 @@ _Venue: LA002_
 - The reference material along with slides and tutorials can be found under the Resources tab in Piazza.
 - The following links will lead you to the [Slides](./CS228/Lectures) and [Resources](./CS228/Resources).
 ## CS230 ( Digital Logic Design and Computer Architecture )
+_Professor: Sayandeep Saha and Bhaskaran Raman_  
+_Venue: LH102_  
+- The first 3 weeks were taken by Prof. Sayandeep. All The materials were uploaded on [Bodhitree](https://robin.bodhi.cse.iitb.ac.in) and on Sir's [Webpage](https://sites.google.com/view/sayandeepsaha/digital-logic-and-computer-architecture-theory-lab).  
+- You can also find the slides in this repo. Follow the [Link](./CS230/Lectures) to access them.

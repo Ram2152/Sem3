@@ -36,7 +36,7 @@ _Venue: LH102_
 - The first 3 weeks were taken by Prof. Sayandeep. All The materials were uploaded on [Bodhitree](https://robin.bodhi.cse.iitb.ac.in) and on Sir's [Webpage](https://sites.google.com/view/sayandeepsaha/digital-logic-and-computer-architecture-theory-lab).  
 - You can also find the slides in this repo. Follow the [Link](./CS230/Lectures) to access them.
 ## CS405 ( Game Theory and Algorithmic Mechanism Design )
-_Professor: Swaprava Nath_
+_Professor: Swaprava Nath_  
 _Venue: LA002_  
 __NOTE:__ This is not a core course. It is an Additional Learning Course worth 6 Credits.
 - All the Slides and Information regarding the course are uplaoded in the course [Webpage](https://www.cse.iitb.ac.in/~swaprava/cs6001_07_2024.html)
